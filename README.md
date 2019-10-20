@@ -3,4 +3,4 @@
 
 | Link | About the website |
 |------|-------|
-| [Kenny](https://kenney.nl/assets)  | We've created over 40,000 images, audio files and 3D models for you to use in your projects. Thanks to our public domain license you're even allowed to use them in commercial projects! |
+| [Kenny](https://kenney.nl/assets) ![alt text](images/kenny_preview.png)  | We've created over 40,000 images, audio files and 3D models for you to use in your projects. Thanks to our public domain license you're even allowed to use them in commercial projects! |
